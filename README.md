@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-This github test repository intended for Internet Engineering course, Shahid Beheshti University.
+This github test repository was intended for Internet Engineering course, Shahid Beheshti University.
+now it's going to be a great party here, I'm currently working on simplifying algorithm concepts and operating systems.
 
 
 <!--
